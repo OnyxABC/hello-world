@@ -1,2 +1,3 @@
 # hello-world
-A collection for pieces of code as I learn along the way
+
+I'm Onyinyechi, nickname Onyx, from Nigeria. I'm really facinated with every IT and can't wait to become a great software developer.
